@@ -82,3 +82,11 @@ Keep it terse. Future-you will thank present-you for capturing the *why*, not ju
 **Why:** None of the four had a remote; the only backup was a local bundle. Nate's rule: deliverables live in git.
 
 **Owner:** Levi (approved 2026-09-10).
+
+## 2026-09-10 — Phase 3 freeze executed (local half)
+
+**Done (Levi's go, 14:5x London):** all hooks removed from `~/.claude/settings.json` and `settings.local.json` (backups in `archives/dot-claude-2026-09/`); 25 launch agents unloaded and their plists moved to `~/Library/LaunchAgents/_frozen_2026-09/`; `ANTHROPIC_BASE_URL` unset and the Ruflo proxy process stopped (port 4001 closed); Ollama launch agent unloaded (the Ollama desktop app itself can still relaunch its server; quit it from the menu bar if wanted). Amplify smoke test passed after. `~/.claude` Jarvis logs/OVERSIGHT/health-assistant archived.
+
+**Not done / not verified:** `com.levimulder.pfctl` (root daemon, needs sudo) still loaded. Railway `railway down` for the web service + 4 cron services was blocked by the Claude app's permission classifier — Levi to run or click. Vercel crons: dashboard toggle (Levi). Cowork scheduled tasks: Levi disabling in the app. The 3 Claude Code scheduled tasks no longer appear in the scheduler list (only the disabled one-time task remains); cause unclear — verify tomorrow that nothing fired at 07:37.
+
+**Rollback:** move plists back from `_frozen_2026-09/` and `launchctl bootstrap gui/$UID <plist>`; restore the two settings backups; `launchctl setenv ANTHROPIC_BASE_URL http://localhost:4001` only if the proxy is wanted again (it is not).
