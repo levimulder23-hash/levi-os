@@ -21,3 +21,6 @@ Carried from the retired backlogs (2026-09-10; ~360 Jarvis-internal items droppe
 
 ## Done
 - 2026-09-10 Phase 0 snapshot; Phase 1 home created from AIS-OS kit.
+
+## Audit history
+- 2026-09-10 Day-0 baseline: 49/100 Foundation (Context 19, Connections 15, Capabilities 13, Cadence 7; capped by Cadence < 10 — expected, nothing is scheduled yet). Fixed: connections.md calendar row was stale. Report: `audits/audit-2026-09-10-135539-a1f3.md`.
