@@ -15,7 +15,7 @@ Carried from the retired backlogs (2026-09-10; ~360 Jarvis-internal items droppe
 - [x] Context-vs-connections rule → `context/preferences.md` + `connections.md` — 2026-09-10.
 - [x] Bike Method promotion ladder = the automation gate in `CLAUDE.md` and `decisions/log.md` — 2026-09-10.
 - [x] Phase 2: archive map done 2026-09-10 (vault left in place; Amplify-Design left in place by design).
-- [x] Phase 3: local freeze done 2026-09-10; Cowork tasks disabled by Levi. Open: Railway `railway down` ×5 and Vercel cron toggle (Levi), pfctl daemon (sudo), verify nothing fires 07:37 on 2026-09-11.
+- [x] Phase 3: local freeze done 2026-09-10; Cowork tasks disabled by Levi. Railway deployments removed (Levi). Open: Vercel cron toggle (Levi), pfctl daemon (sudo), verify nothing fires 07:37 on 2026-09-11.
 - [ ] Phase 4: daily-brief, 5 hand runs.
 - [ ] Finish intake NEEDS LEVI items: Amplify bookkeeping, Alahmar member channels, doctor names, fitness targets, FIE courses/housing/internship.
 
