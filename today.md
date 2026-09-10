@@ -17,6 +17,11 @@ alerts: 0 unread
 ## Tomorrow (Fri 11 Sep)
 - Calendar: no events on primary, school, Alahmar, or LMU calendars.
 
+## This week (school calendar)
+- Tue 16 Sep 23:00 — [FIE-UC] Presentation due.
+- Fri 18 Sep 23:59 — [FIE-BLVM] Portfolio Entry 1 due.
+- Mon 14 Sep 14:00 Ethical Dilemmas; Tue 15 Sep 09:00 Islam & the West, 14:00 BLVM British Monarchy (prep reading); Wed 16 Sep 18:00 Ethical Dilemmas; Thu 17 Sep 09:00 Islam & the West.
+
 ## Nice to know
 - Statements available: Capital One (Sept 8), Discover privacy statement (Sept 8), Experian monthly (Sept 8), "monthly statement" from e-notify (Sept 8). Not read.
 - Santa Cruz Parks & Rec: Ironman assignments this Sunday, Día Del Mar Sept 26 (they still need lifeguards), UCSC tabling event Oct 7. You're in London; Sept 26 also overlaps your Munich trip (Sept 24–27). Reply "can't" or ignore.
