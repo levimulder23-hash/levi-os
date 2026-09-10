@@ -74,3 +74,11 @@ Keep it terse. Future-you will thank present-you for capturing the *why*, not ju
 
 ## daily-brief hand runs
 - 2026-09-10 run #1 — by hand in chat (Claude Code). Sources read: primary + school + Alahmar + LMU calendars (MCP), Gmail unread 2d (MCP), alerts.md, context. wrong: (awaiting Levi's corrections)
+
+## 2026-09-10 — Private GitHub backups for the OS and the three Amplify repos
+
+**Decision:** `~/OS` → github.com/levimulder23-hash/levi-os; `~/Amplify/{amplify-ops,amplify-website,amplify-media}` → same-named private repos. SSH key `~/.ssh/github_ed25519` registered on GitHub and unlocked in the macOS keychain. Pushes still require Levi's go each time (gate); the remotes exist so a push is one command.
+
+**Why:** None of the four had a remote; the only backup was a local bundle. Nate's rule: deliverables live in git.
+
+**Owner:** Levi (approved 2026-09-10).

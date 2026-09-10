@@ -14,4 +14,5 @@ Registry of every system this OS can reach. "Documented" is not "connected". Upd
 | 8 | Web research | Firecrawl, Supadata (transcripts), Context7 (docs) | mcp | keys in Claude app config | used in this session | 2026-09-10 |
 | 9 | Browser | Claude in Chrome, Playwright plugin, in-app Browser pane | mcp | — | used in this session | 2026-09-10 |
 | 10 | Scheduling | Claude Code scheduled-tasks MCP; Cowork scheduled tasks | mcp | — | present; **do not schedule anything until the automation gate is met** | 2026-09-10 |
-| 11 | Legacy (frozen) | Supabase (alahmar-os), Alpaca, Plaid, Telegram bot, Ruflo proxy, Ollama, Obsidian REST MCP | archived | — | see `ai-os/parts-bin.md` | — |
+| 11 | Code backup | GitHub (levimulder23-hash): levi-os, amplify-ops, amplify-website, amplify-media (all private) | git over SSH (key in macOS keychain via ssh-add) | ssh key | **push verified**, all four heads match local | 2026-09-10 |
+| 12 | Legacy (frozen) | Supabase (alahmar-os), Alpaca, Plaid, Telegram bot, Ruflo proxy, Ollama, Obsidian REST MCP | archived | — | see `ai-os/parts-bin.md` | — |
