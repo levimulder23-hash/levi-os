@@ -71,3 +71,5 @@ Keep it terse. Future-you will thank present-you for capturing the *why*, not ju
 **Decision:** The migration never moves, renames, or edits `~/Amplify/*`. Structure is built before the old automation is frozen, and the freeze is bracketed by an Amplify smoke test.
 
 **Owner:** Levi.
+
+## daily-brief hand runs
