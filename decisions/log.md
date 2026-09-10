@@ -73,3 +73,4 @@ Keep it terse. Future-you will thank present-you for capturing the *why*, not ju
 **Owner:** Levi.
 
 ## daily-brief hand runs
+- 2026-09-10 run #1 — by hand in chat (Claude Code). Sources read: primary + school + Alahmar + LMU calendars (MCP), Gmail unread 2d (MCP), alerts.md, context. wrong: (awaiting Levi's corrections)
